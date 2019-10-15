@@ -1,3 +1,7 @@
 # Deep Learning for Music Unmixing
 
-Presentation slides for the EUSIPCO Tutorial. [view here](https://sigsep.github.io/eusipco2019_tutorial/)
+Slides presented at Polytech Montpellier on October 14th
+
+This is a light version of the content presented at EUSIPCO 2019.
+
+Please check the [sigsep](https://sigsep.github.io/) website for more material.
